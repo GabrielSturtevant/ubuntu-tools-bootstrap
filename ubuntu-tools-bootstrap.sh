@@ -34,5 +34,8 @@ sudo apt install git -y
 curl $vimrc_link > $HOME/.vimrc
 curl $aliases_link >> $HOME/.bash_aliases
 
+# Activate changes
+. .bashrc
+
 clear
 printf "Thank you for using ubuntu-tools-bootstrap\n-Gabe\n"
