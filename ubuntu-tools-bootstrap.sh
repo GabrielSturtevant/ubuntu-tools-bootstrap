@@ -22,8 +22,8 @@
 # Gabriel Sturtevant <gabriel@gabrielsturtevant.com>
 
 # Links
-$vimrc_link=https://raw.githubusercontent.com/GabrielSturtevant/ubuntu-tools-bootstrap/master/vimrc
-$aliases_link=https://raw.githubusercontent.com/GabrielSturtevant/ubuntu-tools-bootstrap/master/bash_aliases
+vimrc_link="https://raw.githubusercontent.com/GabrielSturtevant/ubuntu-tools-bootstrap/master/vimrc"
+aliases_link="https://raw.githubusercontent.com/GabrielSturtevant/ubuntu-tools-bootstrap/master/bash_aliases"
 
 # Install Programs
 sudo apt install vim -y
