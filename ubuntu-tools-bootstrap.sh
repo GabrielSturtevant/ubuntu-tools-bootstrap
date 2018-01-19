@@ -35,7 +35,7 @@ curl $vimrc_link > $HOME/.vimrc
 curl $aliases_link >> $HOME/.bash_aliases
 
 # Activate changes
-. .bashrc
+. ~/.bashrc
 
 clear
 printf "Thank you for using ubuntu-tools-bootstrap\n-Gabe\n"
